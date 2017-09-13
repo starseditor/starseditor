@@ -1,0 +1,2 @@
+# starseditor
+stars
